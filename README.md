@@ -31,7 +31,7 @@
 
 ### Ответ:  
 
-![Pic1](1.PNG)
+![Pic1](https://github.com/shtitz1985/10-05-hw/blob/main/1.png)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### Ответ:
 
-![Pic2](2.PNG)
+![Pic2](https://github.com/shtitz1985/10-05-hw/blob/main/2.png)
 
 ---
 
@@ -61,9 +61,9 @@ curl http://localhost:8088/ping
 
 ### Ответ:
 
-![Pic3](3.PNG)
+![Pic3](https://github.com/shtitz1985/10-05-hw/blob/main/3.png)
 
-![Pic4](2.PNG)
+![Pic4](https://github.com/shtitz1985/10-05-hw/blob/main/2.png)
 
 
 
